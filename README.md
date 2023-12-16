@@ -29,20 +29,5 @@ DHTesp dhtSensor;
 
  ## 3.Hacer la conexion de DHT11 con la ESP32 como se muestra en la siguente imagen.
 
+![(![image](https://github.com/ErickRomeroRamos/PRACTICA-2-SENSOR-DHT22/assets/153964793/c0c09851-381a-4678-a9a7-65ed7033e84c)
 
- 
-
-void setup() {
-
-  Serial.begin(115200);
-  dhtSensor.setup(DHT_PIN, DHTesp::DHT22);
-}
-
-void loop() {
-
-  TempAndHumidity  data = dhtSensor.getTempAndHumidity();
-  Serial.println("Temp: " + String(data.temperature, 1) + "°C");
-  Serial.println("Humidity: " + String(data.humidity, 1) + "%");
-  Serial.println("---");
-  delay(1000);
-}
