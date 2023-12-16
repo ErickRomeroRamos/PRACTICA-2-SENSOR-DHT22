@@ -16,6 +16,7 @@ Este repositorio muestra como podemos programar una ESP32 con el sensor DHT11
  Para poder usar este repositorio necesitas entrar a la plataforma WOKWI.
  ## Instrucciones de preparación de entorno
  1.Abrir la terminal de programación y colocar la siguente programación:
+ 
 #include "DHTesp.h"
 #include <LiquidCrystal_I2C.h>
 
