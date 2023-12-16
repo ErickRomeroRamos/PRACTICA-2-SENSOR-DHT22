@@ -23,6 +23,8 @@ Este repositorio muestra como podemos programar una ESP32 con el sensor DHT11
 const int DHT_PIN = 15;
 DHTesp dhtSensor;
 
+## 2.Instalar la libreria de DHT sensor library for ESPx como se muestra en la siguente imagen.
+
 
 void setup() {
 
