@@ -13,7 +13,7 @@ Este repositorio muestra como podemos programar una ESP32 con el sensor DHT11
 °Sensor DHT11
  # Instrucciones
  ## Requisitos previos
- Para poder usar este repositorio necesitas entrar a la plataforma WOKWI.
+ ### Para poder usar este repositorio necesitas entrar a la plataforma WOKWI.
  ## Instrucciones de preparación de entorno
  1.Abrir la terminal de programación y colocar la siguente programación:
  
@@ -42,6 +42,7 @@ Colocar la temperatura y humedad dando doble click al sensor DHT1
 ## RESULTADOS
 ### Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
  
+![image](https://github.com/ErickRomeroRamos/PRACTICA-2-SENSOR-DHT22/assets/153964793/551b7eb2-0064-4a41-9bf3-e54ac871c13e)
 
 
 
