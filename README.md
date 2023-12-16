@@ -41,7 +41,7 @@ Visualizar los datos en el monitor serial.
 Colocar la temperatura y humedad dando doble click al sensor DHT1
 ## RESULTADOS
 ### Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
- ![image](https://github.com/ErickRomeroRamos/PRACTICA-2-SENSOR-DHT22/assets/153964793/a24092b4-2e88-48e3-b2cd-61c4d21227f0)
+ 
 
 
 
