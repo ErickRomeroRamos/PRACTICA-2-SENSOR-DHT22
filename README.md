@@ -29,6 +29,9 @@ DHTesp dhtSensor;
 
  ## 3.Hacer la conexion de DHT11 con la ESP32 como se muestra en la siguente imagen.
 
+
+ 
+
 void setup() {
 
   Serial.begin(115200);
